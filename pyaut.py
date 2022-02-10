@@ -4,6 +4,9 @@ import pyautogui
 print(pyautogui.size())
 print(pyautogui.position())
 
+#idle
+# pyautogui.displayMousePosition()  
+
 # pyautogui.moveTo(0,0,duration=3)
 
 # pyautogui.dragTo(100,100,duration=4)
